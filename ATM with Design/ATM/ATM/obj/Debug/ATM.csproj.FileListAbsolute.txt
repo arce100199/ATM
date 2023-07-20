@@ -1,0 +1,65 @@
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\obj\Debug\ATM.menu.resources
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\obj\Debug\ATM.login.resources
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\obj\Debug\ATM.createAccount.resources
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\obj\Debug\ATM.mainMenu.resources
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\obj\Debug\ATM.pdb
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\bin\Debug\EntityFramework.dll
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\bin\Debug\System.Data.SQLite.dll
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\bin\Debug\EntityFramework.xml
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\bin\Debug\System.Data.SQLite.xml
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\obj\Debug\ATM.csproj.CopyComplete
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\obj\Debug\ATM.ViewBalance.resources
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\obj\Debug\ATM.deposit.resources
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\obj\Debug\ATM.withdraw.resources
+C:\Users\Inaki\source\repos\ATM\ATM\ATM\obj\Debug\ATM.pinChange.resources
+D:\CSC11 20-21\3rd Year 3rd Term\CSharp\ATM\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+D:\CSC11 20-21\3rd Year 3rd Term\CSharp\ATM\ATM\obj\Debug\ATM.csproj.SuggestedBindingRedirects.cache
+D:\CSC11 20-21\3rd Year 3rd Term\CSharp\ATM\ATM\obj\Debug\ATM.menu.resources
+D:\CSC11 20-21\3rd Year 3rd Term\CSharp\ATM\ATM\obj\Debug\ATM.login.resources
+D:\CSC11 20-21\3rd Year 3rd Term\CSharp\ATM\ATM\obj\Debug\ATM.mainMenu.resources
+D:\CSC11 20-21\3rd Year 3rd Term\CSharp\ATM\ATM\obj\Debug\ATM.ViewBalance.resources
+D:\CSC11 20-21\3rd Year 3rd Term\CSharp\ATM\ATM\obj\Debug\ATM.deposit.resources
+D:\CSC11 20-21\3rd Year 3rd Term\CSharp\ATM\ATM\obj\Debug\ATM.withdraw.resources
+D:\CSC11 20-21\3rd Year 3rd Term\CSharp\ATM\ATM\obj\Debug\ATM.pinChange.resources
+D:\CSC11 20-21\3rd Year 3rd Term\CSharp\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+D:\CSC11 20-21\3rd Year 3rd Term\CSharp\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+D:\CSC11 20-21\3rd Year 3rd Term\CSharp\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+D:\CSC11 20-21\3rd Year 3rd Term\CSharp\ATM\ATM\obj\Debug\ATM.exe
+D:\CSC11 20-21\3rd Year 3rd Term\CSharp\ATM\ATM\obj\Debug\ATM.pdb
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\obj\Debug\ATM.pdb
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\bin\Debug\EntityFramework.dll
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\bin\Debug\System.Data.SQLite.dll
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\bin\Debug\EntityFramework.xml
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\bin\Debug\System.Data.SQLite.xml
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\obj\Debug\ATM.menu.resources
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\obj\Debug\ATM.login.resources
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\obj\Debug\ATM.mainMenu.resources
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\obj\Debug\ATM.ViewBalance.resources
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\obj\Debug\ATM.deposit.resources
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\obj\Debug\ATM.withdraw.resources
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\obj\Debug\ATM.pinChange.resources
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Inaki\source\repos\ATM with Design\ATM\ATM\obj\Debug\ATM.csproj.CopyComplete
